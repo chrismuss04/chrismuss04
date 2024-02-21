@@ -1,6 +1,6 @@
 - Hi, I’m @chrismuss04
 - I’m interested in software development
-- I’m currently learning HTML/CSS/Javascript
+- I’m currently learning C/Scala/ARM
 
 <!---
 chrismuss04/chrismuss04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
