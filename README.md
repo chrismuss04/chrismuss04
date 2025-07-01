@@ -1,7 +1,6 @@
 - Hi, I’m @chrismuss04
 - I’m interested in software development
-- I’m currently learning C/Python/MySQL
-- I'm working on FastAPI app devlopment that interacts with AWS services (S3, Textract, Lambda, CloudWatch)
+- I'm currently developing a FastAPI app that interacts with AWS services (S3, Textract, Lambda, CloudWatch)
 
 
 <!---
