@@ -1,6 +1,6 @@
 - Hi, I’m @chrismuss04
 - I’m interested in artificial intelligence, cloud computing, and fintech
-- I'm currently developing a FastAPI app that interacts with AWS services (S3, Textract, Lambda, CloudWatch)
+- I'm currently developing an agentic-AI game for medical students
 
 
 <!---
