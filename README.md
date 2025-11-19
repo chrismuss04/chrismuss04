@@ -1,6 +1,7 @@
 - Hi, I’m @chrismuss04
 - I’m interested in artificial intelligence, cloud computing, and fintech
 - I'm currently developing an agentic-AI game for medical students
+- Feel free to reach out via Linkedin - www.linkedin.com/in/chris-musselman-cs
 
 
 <!---
